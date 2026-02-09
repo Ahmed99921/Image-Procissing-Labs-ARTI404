@@ -1,2 +1,3 @@
 # Image-Procissing-Labs-ARTI404
-Labs assignments
+Finished Lab 1
+Working on Lab 2
